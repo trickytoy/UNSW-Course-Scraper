@@ -1,0 +1,502 @@
+[
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP1010?year=2025",
+    "courseCode": "COMP1010",
+    "courseTitle": "The Art of Computing"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP1337?year=2025",
+    "courseCode": "COMP1337",
+    "courseTitle": "Foundations of Cyber Security"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP1511?year=2025",
+    "courseCode": "COMP1511",
+    "courseTitle": "Programming Fundamentals"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP1521?year=2025",
+    "courseCode": "COMP1521",
+    "courseTitle": "Computer Systems Fundamentals"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP1531?year=2025",
+    "courseCode": "COMP1531",
+    "courseTitle": "Software Engineering Fundamentals"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP1911?year=2025",
+    "courseCode": "COMP1911",
+    "courseTitle": "Computing 1A"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP1939?year=2025",
+    "courseCode": "COMP1939",
+    "courseTitle": "Cyber Security Workshop 1 - Penetration Testing"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP2041?year=2025",
+    "courseCode": "COMP2041",
+    "courseTitle": "Software Construction: Techniques and Tools"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP2111?year=2025",
+    "courseCode": "COMP2111",
+    "courseTitle": "System Modelling and Design"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP2121?year=2025",
+    "courseCode": "COMP2121",
+    "courseTitle": "Microprocessors and Interfacing"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP2218?year=2025",
+    "courseCode": "COMP2218",
+    "courseTitle": "Human Centric Security"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP2511?year=2025",
+    "courseCode": "COMP2511",
+    "courseTitle": "Object-Oriented Design &amp; Programming"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP2521?year=2025",
+    "courseCode": "COMP2521",
+    "courseTitle": "Data Structures and Algorithms"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP2949?year=2025",
+    "courseCode": "COMP2949",
+    "courseTitle": "Cyber Security Workshop 2 - Defence"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3121?year=2025",
+    "courseCode": "COMP3121",
+    "courseTitle": "Algorithm Design and Analysis"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3131?year=2025",
+    "courseCode": "COMP3131",
+    "courseTitle": "Programming Languages and Compilers"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3141?year=2025",
+    "courseCode": "COMP3141",
+    "courseTitle": "Software System Design and Implementation"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3142?year=2025",
+    "courseCode": "COMP3142",
+    "courseTitle": "Software Testing and Quality Assurance"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3151?year=2025",
+    "courseCode": "COMP3151",
+    "courseTitle": "Foundations of Concurrency"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3153?year=2025",
+    "courseCode": "COMP3153",
+    "courseTitle": "Algorithmic Verification"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3161?year=2025",
+    "courseCode": "COMP3161",
+    "courseTitle": "Concepts of Programming Languages"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3211?year=2025",
+    "courseCode": "COMP3211",
+    "courseTitle": "Computer Architecture"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3222?year=2025",
+    "courseCode": "COMP3222",
+    "courseTitle": "Digital Circuits and Systems"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3231?year=2025",
+    "courseCode": "COMP3231",
+    "courseTitle": "Operating Systems"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3311?year=2025",
+    "courseCode": "COMP3311",
+    "courseTitle": "Database Systems"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3331?year=2025",
+    "courseCode": "COMP3331",
+    "courseTitle": "Computer Networks and Applications"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3411?year=2025",
+    "courseCode": "COMP3411",
+    "courseTitle": "Artificial Intelligence"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3421?year=2025",
+    "courseCode": "COMP3421",
+    "courseTitle": "Computer Graphics"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3431?year=2025",
+    "courseCode": "COMP3431",
+    "courseTitle": "Robotic Software Architecture"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3443?year=2025",
+    "courseCode": "COMP3443",
+    "courseTitle": "Web Application Security and Testing"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3444?year=2025",
+    "courseCode": "COMP3444",
+    "courseTitle": "Privacy Engineering"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3445?year=2025",
+    "courseCode": "COMP3445",
+    "courseTitle": "Digital Forensics"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3446?year=2025",
+    "courseCode": "COMP3446",
+    "courseTitle": "Cloud Security"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3453?year=2025",
+    "courseCode": "COMP3453",
+    "courseTitle": "Applied Cryptography"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3511?year=2025",
+    "courseCode": "COMP3511",
+    "courseTitle": "Human Computer Interaction"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3601?year=2025",
+    "courseCode": "COMP3601",
+    "courseTitle": "Design Project A"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3821?year=2025",
+    "courseCode": "COMP3821",
+    "courseTitle": "Extended Algorithm Design and Analysis"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3891?year=2025",
+    "courseCode": "COMP3891",
+    "courseTitle": "Extended Operating Systems"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3900?year=2025",
+    "courseCode": "COMP3900",
+    "courseTitle": "Computer Science Project"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3901?year=2025",
+    "courseCode": "COMP3901",
+    "courseTitle": "Special Project A"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3902?year=2025",
+    "courseCode": "COMP3902",
+    "courseTitle": "Special Project B"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP3959?year=2025",
+    "courseCode": "COMP3959",
+    "courseTitle": "Cyber Security Workshop 3 - Capstone"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4121?year=2025",
+    "courseCode": "COMP4121",
+    "courseTitle": "Advanced Algorithms"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4128?year=2025",
+    "courseCode": "COMP4128",
+    "courseTitle": "Programming Challenges"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4141?year=2025",
+    "courseCode": "COMP4141",
+    "courseTitle": "Theory of Computation"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4161?year=2025",
+    "courseCode": "COMP4161",
+    "courseTitle": "Advanced Topics in Software Verification"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4336?year=2025",
+    "courseCode": "COMP4336",
+    "courseTitle": "Mobile Data Networking"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4337?year=2025",
+    "courseCode": "COMP4337",
+    "courseTitle": "Securing Fixed and Wireless Networks"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4418?year=2025",
+    "courseCode": "COMP4418",
+    "courseTitle": "Knowledge Representation and Reasoning"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4431?year=2025",
+    "courseCode": "COMP4431",
+    "courseTitle": "Game Design Workshop"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4511?year=2025",
+    "courseCode": "COMP4511",
+    "courseTitle": "User Interface Design and Construction"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4601?year=2025",
+    "courseCode": "COMP4601",
+    "courseTitle": "Design Project B"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4920?year=2025",
+    "courseCode": "COMP4920",
+    "courseTitle": "Professional Issues and Ethics in Information Technology"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4951?year=2025",
+    "courseCode": "COMP4951",
+    "courseTitle": "Research Thesis A"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4952?year=2025",
+    "courseCode": "COMP4952",
+    "courseTitle": "Research Thesis B"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4953?year=2025",
+    "courseCode": "COMP4953",
+    "courseTitle": "Research Thesis C"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4961?year=2025",
+    "courseCode": "COMP4961",
+    "courseTitle": "Computer Science Thesis A"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4962?year=2025",
+    "courseCode": "COMP4962",
+    "courseTitle": "Computer Science Thesis B"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP4963?year=2025",
+    "courseCode": "COMP4963",
+    "courseTitle": "Computer Science Thesis C"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6080?year=2025",
+    "courseCode": "COMP6080",
+    "courseTitle": "Web Front-End Programming"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6131?year=2025",
+    "courseCode": "COMP6131",
+    "courseTitle": "Software Security Analysis"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6420?year=2025",
+    "courseCode": "COMP6420",
+    "courseTitle": "Hardware Security"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6441?year=2025",
+    "courseCode": "COMP6441",
+    "courseTitle": "Security Engineering and Cyber Security"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6443?year=2025",
+    "courseCode": "COMP6443",
+    "courseTitle": "Web Application Security and Testing"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6445?year=2025",
+    "courseCode": "COMP6445",
+    "courseTitle": "Digital Forensics"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6447?year=2025",
+    "courseCode": "COMP6447",
+    "courseTitle": "System and Software Security Assessment"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6448?year=2025",
+    "courseCode": "COMP6448",
+    "courseTitle": "Security Engineering Masterclass"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6451?year=2025",
+    "courseCode": "COMP6451",
+    "courseTitle": "Cryptocurrency and Distributed Ledger Technologies"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6452?year=2025",
+    "courseCode": "COMP6452",
+    "courseTitle": "Software Architecture for Blockchain Applications"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6453?year=2025",
+    "courseCode": "COMP6453",
+    "courseTitle": "Applied Cryptography"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6713?year=2025",
+    "courseCode": "COMP6713",
+    "courseTitle": "Natural Language Processing"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6714?year=2025",
+    "courseCode": "COMP6714",
+    "courseTitle": "Information Retrieval and Web Search"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6721?year=2025",
+    "courseCode": "COMP6721",
+    "courseTitle": "(In-)Formal Methods: The Lost Art"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6733?year=2025",
+    "courseCode": "COMP6733",
+    "courseTitle": "Internet of Things Experimental Design Studio"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6741?year=2025",
+    "courseCode": "COMP6741",
+    "courseTitle": "Algorithms for Intractable Problems"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6752?year=2025",
+    "courseCode": "COMP6752",
+    "courseTitle": "Modelling Concurrent Systems"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6771?year=2025",
+    "courseCode": "COMP6771",
+    "courseTitle": "Advanced C++ Programming"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6841?year=2025",
+    "courseCode": "COMP6841",
+    "courseTitle": "Extended Security Engineering and Cyber Security"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6843?year=2025",
+    "courseCode": "COMP6843",
+    "courseTitle": "Extended Web Application Security and Testing"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6845?year=2025",
+    "courseCode": "COMP6845",
+    "courseTitle": "Extended Digital Forensics and Incident Response"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP6991?year=2025",
+    "courseCode": "COMP6991",
+    "courseTitle": "Solving Modern Programming Problems with Rust"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9242?year=2025",
+    "courseCode": "COMP9242",
+    "courseTitle": "Advanced Operating Systems"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9243?year=2025",
+    "courseCode": "COMP9243",
+    "courseTitle": "Distributed Systems"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9301?year=2025",
+    "courseCode": "COMP9301",
+    "courseTitle": "Cyber Security Project"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9302?year=2025",
+    "courseCode": "COMP9302",
+    "courseTitle": "Cyber Security Project B"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9312?year=2025",
+    "courseCode": "COMP9312",
+    "courseTitle": "Data Analytics for Graphs"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9313?year=2025",
+    "courseCode": "COMP9313",
+    "courseTitle": "Big Data Management"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9315?year=2025",
+    "courseCode": "COMP9315",
+    "courseTitle": "Database Systems Implementation"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9319?year=2025",
+    "courseCode": "COMP9319",
+    "courseTitle": "Web Data Compression and Search"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9321?year=2025",
+    "courseCode": "COMP9321",
+    "courseTitle": "Data Services Engineering"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9332?year=2025",
+    "courseCode": "COMP9332",
+    "courseTitle": "Network Routing and Switching"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9333?year=2025",
+    "courseCode": "COMP9333",
+    "courseTitle": "Advanced Computer Networks"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9334?year=2025",
+    "courseCode": "COMP9334",
+    "courseTitle": "Capacity Planning of Computer Systems and Networks"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9417?year=2025",
+    "courseCode": "COMP9417",
+    "courseTitle": "Machine Learning and Data Mining"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9418?year=2025",
+    "courseCode": "COMP9418",
+    "courseTitle": "Advanced Topics in Statistical Machine Learning"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9444?year=2025",
+    "courseCode": "COMP9444",
+    "courseTitle": "Neural Networks and Deep Learning"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9447?year=2025",
+    "courseCode": "COMP9447",
+    "courseTitle": "Security Engineering Workshop"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9491?year=2025",
+    "courseCode": "COMP9491",
+    "courseTitle": "Applied Artificial Intelligence"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9517?year=2025",
+    "courseCode": "COMP9517",
+    "courseTitle": "Computer Vision"
+  },
+  {
+    "courseLink": "/undergraduate/courses/2025/COMP9727?year=2025",
+    "courseCode": "COMP9727",
+    "courseTitle": "Recommender Systems"
+  }
+]

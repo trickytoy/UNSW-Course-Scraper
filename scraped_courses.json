@@ -1,0 +1,542 @@
+[
+  {
+    "courseCode": "COMP1010",
+    "courseTitle": "The Art of Computing",
+    "courseDesc": "This course aims to provide a grounding in computational thinking for anyone who wants one. It assumes no previous programming background, but does assume that all incoming students have used digital devices, such as tablets and smart phones, for a range of tasks (e.g. social networking, reading, essay writing, etc.). The course will use Python as the programming medium and use real world examples from a variety of domains to motivate understanding.",
+    "courseCondition": "Exclusion: COMP1511/DPST1091\n\n"
+  },
+  {
+    "courseCode": "COMP1337",
+    "courseTitle": "Foundations of Cyber Security",
+    "courseDesc": "This course provides students with an introduction to the rapidly growing field of cyber security. It is suitable for anyone who wishes to understand more about this fascinating and rapidly emerging global challenge. The course provides an overview of the main aspects of contemporary cyber security, including cyber crime, cyber criminals, cyber war, scams, exploitation, human errors and mistakes, vulnerabilities, responding to emergencies, sensible risk assessment and risk management.",
+    "courseCondition": "Prerequisite: Enrolment in 3777 Bachelor of Cyber Security\n\n"
+  },
+  {
+    "courseCode": "COMP1511",
+    "courseTitle": "Programming Fundamentals",
+    "courseDesc": "From recent innovations in AI like self-driving cars to humanoid robotics navigating complex environments, leapfrogs in battery technology to sequencing the human genome - the world is benefiting and evolving thanks to computer systems. At the core of all these systems are computers executing instructions to solve exciting problems.",
+    "courseCondition": "Access past handbook editions (2018 and prior)"
+  },
+  {
+    "courseCode": "COMP1521",
+    "courseTitle": "Computer Systems Fundamentals",
+    "courseDesc": "This course introduces students to how computer systems are structured in terms of basic electronic components, how they are used to implement procedural programs, and how they are structured as a collection of software layers. It introduces students to low-level software layers such as operating systems, and introduces concurrency concepts. The goal is to give students a solid understanding of what happens when high-level programs are executed, as a basis for further study in important areas of computing such as computer architecture, operating systems.",
+    "courseCondition": "Prerequisite: COMP1511 or DPST1091 or COMP1911 or COMP1917\n\n"
+  },
+  {
+    "courseCode": "COMP1531",
+    "courseTitle": "Software Engineering Fundamentals",
+    "courseDesc": "This course teaches students about software engineering principles via exposure to the important practice of building correct products in effectively functioning teams.",
+    "courseCondition": "Prerequisite: COMP1511 or DPST1091 or COMP1917 or COMP1921\n\n"
+  },
+  {
+    "courseCode": "COMP1911",
+    "courseTitle": "Computing 1A",
+    "courseDesc": "From recent innovations in AI like self-driving cars to humanoid robotics navigating complex environments, leapfrogs in battery technology to sequencing the human genome - the world is benefiting and evolving thanks to computer systems. At the core of all these systems are computers executing instructions to solve exciting problems.",
+    "courseCondition": "Prerequisite: Enrolment in a non-CSE major (no BINF, COMP, or SENG)\n\n"
+  },
+  {
+    "courseCode": "COMP1939",
+    "courseTitle": "Cyber Security Workshop 1 - Penetration Testing",
+    "courseDesc": "This workshop course provides students with a series of practical challenges and applied exercises to apply and integrate the cyber security and computing knowledge and skills they have mastered in their first year of cyber security study.  ",
+    "courseCondition": "Prerequisite or Co-requisite: COMP1521\n\n"
+  },
+  {
+    "courseCode": "COMP2041",
+    "courseTitle": "Software Construction: Techniques and Tools",
+    "courseDesc": "This course is designed for students who have mastered the basics of programming. It aims to broaden your knowledge of techniques and tools for software construction. It covers: Unix filters, shell scripting and Python (for programming), git (for version control), docker (for portable deployment), package managers (for configuration and deployment). At the end of this course, you should be able to build moderate-sized software systems and configure them so that others can download and deploy your work.",
+    "courseCondition": "Prerequisite: COMP1511 OR DPST1091 OR COMP1917 OR COMP1921\n\n"
+  },
+  {
+    "courseCode": "COMP2111",
+    "courseTitle": "System Modelling and Design",
+    "courseDesc": "This course introduces rigorous and formal methods for modelling system behaviour. These methods support the modelling of abstract specifications and the refinement of abstract specifications through to concrete implementations. Consistency of formal development is verified by proof obligations and formal proof. The course will cover: specification, refinement, implementation, proof obligations, and proof. It re-inforces, and builds on, prerequisite knowledge from MATH1081, especially set theory and predicate logic. The course will use case-studies and assignments to develop competence. The methods developed in this course are used in the SENG2011 workshops and in safety-critical industrial contexts.",
+    "courseCondition": "Prerequisite: MATH1081 AND (COMP1511 OR DPST1091 OR COMP1917 OR COMP1921)\n\n"
+  },
+  {
+    "courseCode": "COMP2121",
+    "courseTitle": "Microprocessors and Interfacing",
+    "courseDesc": "Instruction Set Architecture (ISA), Floating point number representation, computer arithmetic, assembly and machine language programming, machine language fundamentals; addressing modes; instruction repertoire, assembly language programming methodology, interrupts and I/O interfacing (hardware and software), serial communication, timers, analog input and output, converting analog signals to digital signals (data acquisition), taking input from a variety of sensors and driving actuators, buses and memory system, low level device drivers.",
+    "courseCondition": "Prerequisite: COMP1917 OR COMP1921 OR COMP1511 OR DPST1091 OR COMP1521 OR DPST1092 OR (COMP1911 AND MTRN2500)\n\n"
+  },
+  {
+    "courseCode": "COMP2218",
+    "courseTitle": "Human Centric Security",
+    "courseDesc": "This course explores the intersection of cyber security and human behaviour, emphasising the importance of designing practical systems that are not only secure and robust technically but also in operation in an environment involving humans. It delves deeper than traditional cyber security, exploring the crucial role human behaviour plays in strengthening and weakening the security of systems.",
+    "courseCondition": "Prerequisite: COMP1337\n\n"
+  },
+  {
+    "courseCode": "COMP2511",
+    "courseTitle": "Object-Oriented Design & Programming",
+    "courseDesc": "COMP2511 builds on the foundation of first-year CSE courses, and begins to answer the questions: \"What does good software look like?\" and \"How do you build software that is flexible, reusable and maintainable\". The course introduces students to the Object-Oriented Programming paradigm and explores how OOP attempts to solve the problem of good software design. Students explore fundamental Design Patterns in designing, writing and testing software, and how to apply these strategies to both theoretical and real-world problems. The course also teaches an appreciation for elegantly written code, problem solving and finding well-designed solutions to problems that have longevity of software in mind.",
+    "courseCondition": "Prerequisite: COMP1531 AND (COMP2521 OR COMP1927)\n\n"
+  },
+  {
+    "courseCode": "COMP2521",
+    "courseTitle": "Data Structures and Algorithms",
+    "courseDesc": "The aim of this course is to get you to think like a computer scientist . This certainly sounds like a noble goal... but what does it really mean? How does a scientist , let alone a computer scientist, actually think?",
+    "courseCondition": "Prerequisite: COMP1511 or DPST1091 or COMP1917 or COMP1921\n\n"
+  },
+  {
+    "courseCode": "COMP3121",
+    "courseTitle": "Algorithm Design and Analysis",
+    "courseDesc": "How would you convince a colleague that your program is correct, and that theirs is flawed?",
+    "courseCondition": "Prerequisite: COMP1927 or COMP2521\n\n"
+  },
+  {
+    "courseCode": "COMP3131",
+    "courseTitle": "Programming Languages and Compilers",
+    "courseDesc": "This subject focusses on basic compiler techniques needed to implement programming languages in a virtual machine (with emphasis on the compiler front end). By writing a compiler in Java to translate a variant of C into Java bytecode, you are also expected to gain a good understanding of important fundamental principles in object-oriented programming languages and develop further your programming and software engineering skills.",
+    "courseCondition": "Prerequisite: COMP2511 or COMP2911\n\n"
+  },
+  {
+    "courseCode": "COMP3141",
+    "courseTitle": "Software System Design and Implementation",
+    "courseDesc": "This course will present rigorous and formal methods for the design and implementation phases of software system development. Also considered are testing and reuse of designs. As far as possible, software tools that can assist the process will be used. The material will be presented using case studies, and students will be required to undertake a project.",
+    "courseCondition": "Prerequisite: COMP1927 or COMP2521\n\n"
+  },
+  {
+    "courseCode": "COMP3142",
+    "courseTitle": "Software Testing and Quality Assurance",
+    "courseDesc": "Software plays an important role in our daily life. It is important to construct robust, operational software, especially under limited development budget and time constraints. To address this problem, a thorough verification and validation process is needed.",
+    "courseCondition": "Prerequisite: COMP1531, COMP2511 and COMP2521\n\n"
+  },
+  {
+    "courseCode": "COMP3151",
+    "courseTitle": "Foundations of Concurrency",
+    "courseDesc": "Concurrency = processes + communication. Communication via shared variables vs message passing. Models of concurrency: true concurrency vs interleaving. Abstractions: atomicity, locks and barriers, semaphores, monitors, threads, RPC, rendezvous. Classical problems: mutual exclusion, dining philosophers, sleeping barber, termination detection, gravitational N-body problem.Practical work: programming assignments and proving of program safety and liveness properties.",
+    "courseCondition": "Prerequisite: COMP1927 OR (COMP1521/DPST1092 AND COMP2521)\n\n"
+  },
+  {
+    "courseCode": "COMP3153",
+    "courseTitle": "Algorithmic Verification",
+    "courseDesc": "It is virtually impossible to guarantee the correctness of a system, and in turn the absence of bugs by standard software engineering practice such as code review, systematic testing and good software design alone. The formal methods community has developed various rigorous, mathematically sound techniques and tools that allow the automatic analysis of systems and software. The application of these fully automatic techniques is typically called algorithmic verification. The course will describe several automatic verification techniques, the algorithms they are based on, and the tools that support them. We will discuss examples to which the techniques have been applied, and provide experience with the use of several tools.",
+    "courseCondition": "Pre-requisite: MATH1081\n\n"
+  },
+  {
+    "courseCode": "COMP3161",
+    "courseTitle": "Concepts of Programming Languages",
+    "courseDesc": "This course discusses and relates a range of programming language concepts and paradigms, including imperative, object-oriented, functional, concurrent & parallel programming. It covers the theoretical foundations (syntax, operational, axiomatic and denotational semantics) as well as practical development and implementation aspects (dynamic and strong typing, polymorphism, overloading, automatic memory management, and concurrency). Due to the course topics, a variety of programming languages will be studied and used. Assignments will be in the programming language Haskell, but no previous knowledge of Haskell is assumed.",
+    "courseCondition": "Prerequisite: COMP2521 or COMP1927\n\n"
+  },
+  {
+    "courseCode": "COMP3211",
+    "courseTitle": "Computer Architecture",
+    "courseDesc": "Computer architecture plays a crucial role in defining and bridging the interface between hardware and software in a computer system. It serves as the foundation upon which both hardware and software components are designed and interact with each other. A study of computer architecture complements the study of programming language and algorithm, compiler, and operating system on the software side of the interface, and the study of embedded system, FPGA and VLSI design on the hardware side of the interface.",
+    "courseCondition": "Prerequisite: COMP3222 or ELEC2141.\n\n"
+  },
+  {
+    "courseCode": "COMP3222",
+    "courseTitle": "Digital Circuits and Systems",
+    "courseDesc": "This course teaches students the fundamentals of digital design.",
+    "courseCondition": "Prerequisite: COMP2121 OR COMP1521 OR DPST1092\n\n"
+  },
+  {
+    "courseCode": "COMP3231",
+    "courseTitle": "Operating Systems",
+    "courseDesc": "Operating systems are an essential part of computer systems, so a course on operating systems is an essential part of any computer science or computer engineering program. This course provides an in-depth understanding of the underlying operating systems that students have implicitly relied upon when developing applications in the foundational courses within Computer Science and Engineering. The knowledge gained will continue to be relevant to your future career when developing systems and applications.",
+    "courseCondition": "Prerequisite: (COMP1521 or DPST1092 or COMP2121 or ELEC2142) and (COMP2521 or COMP1927)\n\n"
+  },
+  {
+    "courseCode": "COMP3311",
+    "courseTitle": "Database Systems",
+    "courseDesc": "This course aims to explore in depth the practice of developing database applications and the theory behind relational database systems. It will also give a very brief overview of the technologies used in implementing database management systems and the past, present and future of database systems.",
+    "courseCondition": "Prerequisite: COMP2521 or COMP1927\n\n"
+  },
+  {
+    "courseCode": "COMP3421",
+    "courseTitle": "Computer Graphics",
+    "courseDesc": "In this course, you will delve into the fundamentals and practical aspects of Computer Graphics by working with game engines. You will gain knowledge and skills in developing 2D, 3D, and Virtual Reality-based graphical objects and environments using game engines including Unreal Engine and Unity. Additionally, you will understand computer graphics concepts, including lighting, reflection, static meshes, 2D Transforms, 3D Transforms, surface, texture maps, materials, cameras, object physical behaviors, collision detection, hierarchical modeling of objects, shaders, and rendering.",
+    "courseCondition": "Prerequisite: COMP2511 or COMP2911\n\n"
+  },
+  {
+    "courseCode": "COMP3431",
+    "courseTitle": "Robotic Software Architecture",
+    "courseDesc": "An introduction to Intelligent agent design. Picking actions using planning, learning or engineered control. Both practical and theoretical components. Practical component: Re-implement parts of a real agent architecture on a robot. Assignment based. Emphasis on engineering a working system. Theoretical component: Introduction to a variety of research agent architectures including classical planning and reinforcement learning. Lecture and lab based.",
+    "courseCondition": "Prerequisite: COMP2521 or COMP1927, and a WAM of at least 70\n\n"
+  },
+  {
+    "courseCode": "COMP3443",
+    "courseTitle": "Web Application Security and Testing",
+    "courseDesc": "Web applications are currently the predominant source of software vulnerabilities exploited in in online attacks. There is a growing need and growing demand for web programmers to be security aware.",
+    "courseCondition": "Prerequisite: COMP1337\n\n"
+  },
+  {
+    "courseCode": "COMP3444",
+    "courseTitle": "Privacy Engineering",
+    "courseDesc": "Privacy is a significant concern in modern society. Individuals share personal information with many different organizations - healthcare, financial and educational institutions, the census bureau, web services providers and online social networks - often in electronic form. Privacy violations occur when such personal information is inappropriately collected, shared, or used. Privacy Engineering is the discipline concerned with applying an engineering approach to the analysis of privacy problems and the design of solutions in a systematic and sometimes formal manner.  It is concerned with data privacy and overall system privacy, including legal and ethical privacy goals.\n \nThe course provides a comprehensive overview of the field of “Privacy Engineering” and in-depth knowledge on information theoretic concepts and mechanisms for achieving privacy goals, including legal and ethical privacy goals. The course is designed to provide understanding of state-of-the-art privacy-preserving mechanisms including formal and human centric approaches, and the design and assessment of systems with privacy requirements and how to attack them. Students will learn concepts and methods for identifying privacy leakages and creating technologies with provable guarantees of privacy protection. Covered topics include: privacy leakages & attacks (e.g., identifiability of data, record linkage, data profiling, data anonymity, de-identification), privacy-by-design, state-of-the-art privacy enhancing technologies (e.g., differential privacy, k-anonymity), and emerging privacy concepts (e.g. user behavioural privacy, usable privacy, privacy & AI, privacy regulation, and ethics).",
+    "courseCondition": "Prerequisite: COMP1337\n\n"
+  },
+  {
+    "courseCode": "COMP3445",
+    "courseTitle": "Digital Forensics",
+    "courseDesc": "The subject of Digital Forensics is a blend of technical expertise, legal procedures for an expert witness, persuasive report writing and your performance in the theatre of court. This course covers both forensic theory / professional practice, and looks at the underlying engineering of hiding, finding, interpreting and responding to traces. Students will use standard forensic tools to extract, carve and analyse data as well as learning the low-level technical skills and knowledge underlying them. Students will also be introduced to advanced topics such as Cloud Forensics and latest anti-forensics techniques.",
+    "courseCondition": "Prerequisite: COMP1337\n\n"
+  },
+  {
+    "courseCode": "COMP3446",
+    "courseTitle": "Cloud Security",
+    "courseDesc": "This course covers how to securely design and operate cloud infrastructure and how to monitor for compromise and response patterns for security incidents. This is a rapidly changing field and is one of the main areas of attack on enterprise systems.",
+    "courseCondition": "Prerequisite: COMP1337\n\n"
+  },
+  {
+    "courseCode": "COMP3453",
+    "courseTitle": "Applied Cryptography",
+    "courseDesc": "Cryptography is an indispensable tool for protecting information in computer systems. This course is designed to provide an understanding of Cryptographic algorithms and Cryptanalysis with an aim of using them to protect computer systems, networks, and data protection. The course will emphasise on the foundational aspects of encryption and authentication techniques with an aim to use them correctly and effectively in applications.",
+    "courseCondition": "Prerequisite: COMP2521 and MATH1081\n\n"
+  },
+  {
+    "courseCode": "COMP3511",
+    "courseTitle": "Human Computer Interaction",
+    "courseDesc": "The course covers topics related to User Interface Design and Visual Design Principles. These topics aim to equip you with the skills necessary to design websites, mobile apps, and various software packages. You will learn how to apply a User-Centered Design process, which involves data collection from users, Requirement Analysis, Design, Prototyping, and Usability Evaluation. This process ensures that the final product is tailored to meet users' needs.",
+    "courseCondition": "Prerequisite: Completion of 48 UOC\n\n"
+  },
+  {
+    "courseCode": "COMP3821",
+    "courseTitle": "Extended Algorithm Design and Analysis",
+    "courseDesc": "How can a practitioner of algorithms help small-scale producers interested in sustainable farming? How can you solve strategy games by efficiently using computation time and memory? What do the relationships between difficult problems imply about the existence of feasible solutions to them, from both theoretical and practical standpoints?",
+    "courseCondition": "Prerequisite: (Min mark of 70 in COMP1927 or COMP2521) and (min mark of 70 in MATH1081 or enrolment in 3785)\n\n"
+  },
+  {
+    "courseCode": "COMP3891",
+    "courseTitle": "Extended Operating Systems",
+    "courseDesc": "Operating systems are an essential part of computer systems, a course on operating systems is an essential part of any computer science or computer engineering program. This course provides an in-depth understanding of the underlying operating systems that students have implicitly relied upon when developing applications in the foundational courses within Computer Science and Engineering. The knowledge gained will continue to be relevant to your future career when developing systems and applications.",
+    "courseCondition": "Prerequisite: (COMP1521 or DPST1092 or COMP2121) and (COMP2521 or COMP1927) and a WAM of at least 75\n\n"
+  },
+  {
+    "courseCode": "COMP3900",
+    "courseTitle": "Computer Science Project",
+    "courseDesc": "Welcome to the Information Technology/Computer Science Project Course, where theory meets practice in a hands-on exploration of real-world projects. This course is designed to elevate your programming skills by immersing you in the intricacies of coding, debugging, and optimizing software solutions. As you apply your theoretical knowledge of information technology/computer science concepts, algorithms, and data structures, you will actively bridge the gap between theoretical understanding and practical implementation. This course places a strong emphasis on teamwork and effective collaboration. You will navigate the challenges of group projects, learning to work seamlessly with peers, share responsibilities, and communicate ideas effectively. Beyond coding and collaboration, the course offers a comprehensive exploration of project management skills. From planning and scheduling to task prioritization, you will gain insights into the entire project lifecycle, experiencing firsthand the evolution of a concept into a completed solution. Furthermore, you will learn the art of crafting clear and concise project reports, and the skills to deliver impactful presentations.",
+    "courseCondition": "Prerequisite: COMP1531, and COMP2521 or COMP1927, and enrolled in a BSc Computer Science major or Advanced Computer Science Honours major with completion of 102 UOC.\n\n"
+  },
+  {
+    "courseCode": "COMP3901",
+    "courseTitle": "Special Project A",
+    "courseDesc": "Ever wondered what it's like to do research? Have a burning desire to solve an interesting problem of your own?",
+    "courseCondition": "Prerequisite: 80+ WAM in COMP, SENG or BINF courses, completion of all first and second year core requirements a CSE program, and agreement from a suitable CSE academic supervisor.\n\n"
+  },
+  {
+    "courseCode": "COMP3902",
+    "courseTitle": "Special Project B",
+    "courseDesc": "Ever wondered what it's like to do research? Have a burning desire to solve an interesting problem of your own?",
+    "courseCondition": "Prerequisite: 80+ WAM in COMP, SENG or BINF courses, completion of all first and second year core requirements a CSE program, and agreement from a suitable CSE academic supervisor.\n\n"
+  },
+  {
+    "courseCode": "COMP3959",
+    "courseTitle": "Cyber Security Workshop 3 - Capstone",
+    "courseDesc": "This workshop course provides students with a series of practical challenges and applied exercises to apply and integrate knowledge and skills they have mastered in the program.",
+    "courseCondition": "Prerequisite: COMP2949 and completion of 96 UOC and enrolment in 3777 Bachelor of Cyber Security\n\n"
+  },
+  {
+    "courseCode": "COMP4121",
+    "courseTitle": "Advanced Algorithms",
+    "courseDesc": "This course is a continuation of our introductory algorithms courses COMP3121/3821/9101/9801. We will cover some of the basic randomised algorithms and data structures, such as randomised hashing, skip-lists, order statistics and Karger's randomised Min Cut algorithm. We will then look at the Markov chains and the Google PageRank algorithm, the Hidden Markov Models and the Viterbi Algorithm, and then cover in quite a detail a variety of other algorithms important to the present day practice, such as the recommender systems as well as some of the algorithms used in Data Science. We will cover parts of three books: our COMP3121/3821/9101/9801 textbook Algorithm Design by Kleinberg and Tardosh, Networked Life by Mung Chiang and Foundations of Data Science by Blum, Hopcroft and Kannan. The first two books are available in the bookstore. A preprint of the third book is available for free at https://www.cs.cornell.edu/jeh/book.pdf.",
+    "courseCondition": "Prerequisite: COMP3121 or COMP3821.\n\n"
+  },
+  {
+    "courseCode": "COMP4128",
+    "courseTitle": "Programming Challenges",
+    "courseDesc": "How do competitive programmers solve complex problems in a matter of minutes?",
+    "courseCondition": "Prerequisite: COMP3821, or (COMP3121 and a 75 WAM)\n\n"
+  },
+  {
+    "courseCode": "COMP4141",
+    "courseTitle": "Theory of Computation",
+    "courseDesc": "Computability: formal languages and problems, Turing Machines (TMs), computability, (semi-)decidability, universal TMs, Church-Turing thesis, halting problem, reduction and undecidability proofs, examples; Complexity: run time, space, complexity classes, non-determinism and NP, polynomial reductions and NP completeness, optimisation problems and approximation, randomisation; Languages and Automata: regular expressions and languages, finite automata, determinisation, context-free grammars and languages (CFLs), Chomsky normal form, word problems, pumping lemma, push-down automata, decidability problems for CFLs; Semantics and Correctness: while programs, assertions and program correctness, Hoare logic, loops and loop invariants, relative completeness of Hoare logic (and its role in a proof of Gödel's incompleteness result)",
+    "courseCondition": "Prerequisite: MATH1081, and COMP1927 or COMP2521\n\n"
+  },
+  {
+    "courseCode": "COMP4161",
+    "courseTitle": "Advanced Topics in Software Verification",
+    "courseDesc": "This course is about mechanical proof assistants, how they work, and what they can be used for. It presents specification and proof techniques used in industrial grade theorem provers, teaches the theoretical background to the techniques involved, and shows how to use a theorem prover to conduct formal proofs in practice. The courses is intended to bring third/fourth year and postgraduate students into contact with the current research topics in the field of theorem proving and automated deduction and to teach them the necessary skills to successfully use industrial grade verification environments in modelling and verification.",
+    "courseCondition": "Prerequisite: Completion of 48 UOC\n\n"
+  },
+  {
+    "courseCode": "COMP4336",
+    "courseTitle": "Mobile Data Networking",
+    "courseDesc": "This is a first course in wireless and mobile networking examining the fundamental theories as well as the latest advances in wireless data and mobile communication networks. Topics include fundamental concepts in wireless coding, modulation, and signal propagation, WiFi and wireless local area networks, cellular networks, Bluetooth, and Internet of Things networks. The course will also overview some of the emerging wireless networking concepts, such as wireless sensing, and droneassisted mobile networks. Hands-on experiments with mobile devices will be part of the learning exercise, which involves wireless packet capture, analysis, and programming.",
+    "courseCondition": "Prerequisite: COMP3331.\n\n"
+  },
+  {
+    "courseCode": "COMP4418",
+    "courseTitle": "Knowledge Representation and Reasoning",
+    "courseDesc": "How can you timetable classes to fit everyone’s schedule? Could tactical voting occur in Australia? Can a single computer program play and solve both sudoku and minesweeper?",
+    "courseCondition": "Prerequisite: COMP3411\n\n"
+  },
+  {
+    "courseCode": "COMP4431",
+    "courseTitle": "Game Design Workshop",
+    "courseDesc": "Game design. How do I invent a new game? What makes a game fun? What is the role of story in games? What makes a game balanced?",
+    "courseCondition": "Prerequisite: Completion of 48 UOC\n\n"
+  },
+  {
+    "courseCode": "COMP4511",
+    "courseTitle": "User Interface Design and Construction",
+    "courseDesc": "COMP4511 is a hands-on project-based course designed to build and solidify the basic skills you acquired in COMP3511/9511. Students will be required to build their interface at least three times (remember the process is iterative!), once as a low fidelity prototype, moving to a higher fidelity electronic prototype and finishing with a beta version of the app. This semester, we will be using React to help us write the app. The course will provide you with a basic understanding and the building blocks required to create your app, and let you guide the design and development process.",
+    "courseCondition": "Prerequisite: a mark of at least 70 in COMP3511 and a mark of at least 65 in COMP2511\n\n"
+  },
+  {
+    "courseCode": "COMP4601",
+    "courseTitle": "Design Project B",
+    "courseDesc": "COMP4601 is a team-based project development course involving the analysis, design and implementation of embedded, high performance or low power FPGA-based accelerators using high-level synthesis.",
+    "courseCondition": "Prerequisite: COMP3211 and COMP3601.\n\n"
+  },
+  {
+    "courseCode": "COMP4920",
+    "courseTitle": "Professional Issues and Ethics in Information Technology",
+    "courseDesc": "In this course we will explore ethical issues for computer science, widely conceived. We will examine in detail the nature of ethical claims/moral judgements themselves, and how it is that our beliefs about their nature can affect our understanding of the ethical issues relating to computer science that we have examined so far. We will learn about ethical arguments, and how to construct and evaluate them.",
+    "courseCondition": "Prerequisite: Completion of 18 UOC of COMP**** courses\n\n"
+  },
+  {
+    "courseCode": "COMP4951",
+    "courseTitle": "Research Thesis A",
+    "courseDesc": "The thesis provides an opportunity for you to bring together engineering principles learned over the previous years of study, and apply these principles to innovatively solve problems, which may include the development of specific designs and/or the investigation of various research hypotheses. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis, and interpretation of results. Typically, the project you work with will have multiple possible solutions or conclusions and sufficient complexity to require a degree of project planning. The thesis requires you to formulate problems in engineering terms, manage an engineering project and find solutions by applying engineering methods. You will also develop an ability to work in a research and development environment.",
+    "courseCondition": "Prerequisite: Enrolled in a CSE BE (Hons) programs, completion of 126 UOC and completion of 3rd year core.\n\n"
+  },
+  {
+    "courseCode": "COMP4952",
+    "courseTitle": "Research Thesis B",
+    "courseDesc": "The thesis provides an opportunity for you to bring together engineering principles learned over the previous years of study, and apply these principles to innovatively solve problems, which may include the development of specific designs and/or the investigation of various research hypotheses. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis, and interpretation of results. Typically, the project you work with will have multiple possible solutions or conclusions and sufficient complexity to require a degree of project planning. The thesis requires you to formulate problems in engineering terms, manage an engineering project and find solutions by applying engineering methods. You will also develop an ability to work in a research and development environment.",
+    "courseCondition": "Prerequisite: Completion of Research Thesis A (4951)\n\n"
+  },
+  {
+    "courseCode": "COMP4953",
+    "courseTitle": "Research Thesis C",
+    "courseDesc": "The thesis provides an opportunity for you to bring together engineering principles learned over the previous years of study, and apply these principles to innovatively solve problems, which may the development of  specific designs and/or the investigation of various research hypotheses. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis, and interpretation of results. Typically, the project you work with will have multiple possible solutions or conclusions and sufficient complexity to require a degree of project planning. The thesis requires you to formulate problems in engineering terms, manage an engineering project and find solutions by applying engineering methods. You will also develop an ability to work in a research and development environment.",
+    "courseCondition": "Prerequisite: Completion of Research Thesis B (4952)\n\n"
+  },
+  {
+    "courseCode": "COMP4961",
+    "courseTitle": "Computer Science Thesis A",
+    "courseDesc": "The thesis provides an opportunity for you to bring together engineering principles learned over the previous years of study, and apply these principles to innovatively solve problems such as the development of specific designs and/or the investigation of various research hypotheses. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis, and interpretation of results. Typically, the project you work with will have multiple possible solutions or conclusions and sufficient complexity to require a degree of project planning. The thesis requires you to formulate problems in engineering terms, manage an engineering project and find solutions by applying engineering methods. You will also develop an ability to work in a research and development environment.",
+    "courseCondition": "Prerequisite: Enrolment in 4515 Computer Science (Hons) or 3779 Advanced Computer Science (Hons)\n\n"
+  },
+  {
+    "courseCode": "COMP4962",
+    "courseTitle": "Computer Science Thesis B",
+    "courseDesc": "The thesis provides an opportunity for you to bring together engineering principles learned over the previous years of study, and apply these principles to innovatively solve problems, which may include the development of specific designs and/or the investigation of various research hypotheses. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis, and interpretation of results. Typically, the project you work with will have multiple possible solutions or conclusions and sufficient complexity to require a degree of project planning. The thesis requires you to formulate problems in engineering terms, manage an engineering project and find solutions by applying engineering methods. You will also develop an ability to work in a research and development environment.",
+    "courseCondition": "Prerequisite: COMP4961\n\n"
+  },
+  {
+    "courseCode": "COMP4963",
+    "courseTitle": "Computer Science Thesis C",
+    "courseDesc": "The thesis provides an opportunity for you to bring together engineering principles learned over the previous years of study, and apply these principles to innovatively solve problems, which may include the development of specific designs and/or the investigation of various research hypotheses. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis, and interpretation of results. Typically, the project you work with will have multiple possible solutions or conclusions and sufficient complexity to require a degree of project planning. The thesis requires you to formulate problems in engineering terms, manage an engineering project and find solutions by applying engineering methods. You will also develop an ability to work in a research and development environment.",
+    "courseCondition": "Prerequisite: COMP4962\n\n"
+  },
+  {
+    "courseCode": "COMP6080",
+    "courseTitle": "Web Front-End Programming",
+    "courseDesc": "COMP6080 aims to develop your confidence in building modern web-based applications to industry standards. This occurs through the introduction of a range of basic concepts surrounding HTML, CSS, Vanilla Javascript, Javascript Declarative Frameworks, UI/UX Principles, Accessibility, Network & Asynchronous Programming, Front-end Testing, and other basic infrastructure.",
+    "courseCondition": "Prerequisite: COMP1531 AND (COMP2521 OR COMP1927)\n\n"
+  },
+  {
+    "courseCode": "COMP6131",
+    "courseTitle": "Software Security Analysis",
+    "courseDesc": "This course is designed to provide a systematic exploration of automated source code analysis and verification techniques, with the aim of gaining hands-on experience in implementing code analysis tools to identify common yet important software vulnerabilities in software systems. By taking this course, students can put static analysis and verification theories and advanced techniques into practice. They will be able to build source code analysis tools (e.g., written in C++) based on modern compilers and popular open-source frameworks to scan, comprehend and detect programming mistakes and vulnerabilities with the purpose of enhancing code quality and security.",
+    "courseCondition": "Prerequisite: MATH1081 and (COMP6771 or a mark of at least 70 in COMP2521)\n\n"
+  },
+  {
+    "courseCode": "COMP6420",
+    "courseTitle": "Hardware Security",
+    "courseDesc": "The functionality and capability of computer systems are defined by their real-world hardware. Likewise, the cyber security of computer systems depends upon the security of their underlying hardware. This course is designed to explore both hardware security and trust in hardware, providing a comprehensive understanding of the underpinning principles and practices which apply to both the security and trust of computer systems, from printed circuit boards to individual integrated circuits. Students will explore theoretical aspects of what makes hardware secure, performing threat modelling and understanding the state of the art in hardware security, as well as get hands-on experience with practical attacks and defences for both virtual and real-world hardware. The course will equip students with the skills necessary to analyse, design, and implement hardware security measures.  ",
+    "courseCondition": "Prerequisite: COMP1521 and (COMP3222 or ELEC2141)\n\n"
+  },
+  {
+    "courseCode": "COMP6445",
+    "courseTitle": "Digital Forensics",
+    "courseDesc": "The subject of Digital Forensics is a blend of technical expertise, legal procedures for an expert witness, persuasive report writing and your performance in the theatre of court. This course covers both forensic theory / professional practice, and looks at the underlying engineering of hiding, finding, interpreting and responding to traces. Students will use standard forensic tools to extract, carve and analyse data as well as learning the low-level technical skills and knowledge underlying them. Students will also be introduced to advanced topics such as Cloud Forensics and latest anti-forensics techniques.",
+    "courseCondition": "Prerequisite: COMP3441 or COMP6441 or COMP6841\n\n"
+  },
+  {
+    "courseCode": "COMP6447",
+    "courseTitle": "System and Software Security Assessment",
+    "courseDesc": "This course looks at cyber attack and defence. Students learn how to assess and identify vulnerabilities and how vulnerabilities are exploited. Students learn the principles and theory of exploitation, the common security models, and how approaches to exploitation and defence have evolved over time.",
+    "courseCondition": "Prerequisite: A mark of at least 65 in COMP6841, or a mark of at least 75 in COMP6441, or COMP3441, or COMP1337\n\n"
+  },
+  {
+    "courseCode": "COMP6448",
+    "courseTitle": "Security Engineering Masterclass",
+    "courseDesc": "This is an occasional course that will involve a visiting expert in the security area giving a series of lectures and workshops on an advanced topic in cyber security. The course may run in intensive mode or in standard in-person weekly or fortnightly mode. The precise timing and topics depend on the visitor.",
+    "courseCondition": "Prerequisite: COMP6841 or COMP6441 or COMP1337\n\n"
+  },
+  {
+    "courseCode": "COMP6451",
+    "courseTitle": "Cryptocurrency and Distributed Ledger Technologies",
+    "courseDesc": "Cryptocurrency and Distributed Ledger Technologies are a currently emerging area of technology that draws on multiple areas of computer science to implement systems that provide secure infrastructure for important societal functions, including financial transactions and the management of commercial trust relationships.",
+    "courseCondition": "Pre-requisite: COMP2521 OR COMP9024\n\n"
+  },
+  {
+    "courseCode": "COMP6452",
+    "courseTitle": "Software Architecture for Blockchain Applications",
+    "courseDesc": "This course addresses the knowledge that is needed in order to build applications based on blockchain technology, by offering an architectural view of software systems that make beneficial use of it. It provides guidance on assessing the suitability of blockchain, on the roles blockchain can play in an architecture, on designing blockchain applications, and on assessing different architecture designs and tradeoffs. It also serves as a reference on blockchain design patterns and design analysis, and refers to practical examples of blockchain-based applications.",
+    "courseCondition": "Prerequisite: COMP1531 AND (COMP2521 OR COMP1927)\n\n"
+  },
+  {
+    "courseCode": "COMP6453",
+    "courseTitle": "Applied Cryptography",
+    "courseDesc": "Cryptography is an indispensable tool for protecting information in computer systems. This course is designed to provide an understanding of Cryptographic algorithms and Cryptanalysis with an aim of using them to protect computer systems, networks, and data protection. The course will emphasise on the foundational aspects of encryption and authentication techniques with an aim to use them correctly and effectively in applications.",
+    "courseCondition": "Prerequisite: COMP2521 and (MATH1081 or MATH2400)\n\n"
+  },
+  {
+    "courseCode": "COMP6713",
+    "courseTitle": "Natural Language Processing",
+    "courseDesc": "Natural language processing (NLP) is a branch of artificial intelligence that deals with computational approaches used to process text.",
+    "courseCondition": "Prerequisite: MATH1081 and (COMP3411 or COMP9444)\n\n"
+  },
+  {
+    "courseCode": "COMP6714",
+    "courseTitle": "Information Retrieval and Web Search",
+    "courseDesc": "Information retrieval (IR) is the process of retrieving relevant information by specifying a query to an IR system. Web search is one form of an IR system that allows users to search information on the Internet based on a search engine. It involves computing a numeric score on how well each result matches the query and ranking the results according to this score.",
+    "courseCondition": "Prerequisite: (MATH1081 and (COMP1531 or COMP2041)) or (COMP1927 or COMP2521)\n\n"
+  },
+  {
+    "courseCode": "COMP6721",
+    "courseTitle": "(In-)Formal Methods: The Lost Art",
+    "courseDesc": "(In-)Formal Methods are practical structuring and design patterns that encourage programming that is easy to understand and to maintain. They are only a part of the large body of “good programming practices,” distinguished from that larger set because –for the methods we consider– the computer-science community has determined the science behind the structures: we know why they are effective.",
+    "courseCondition": "Pre-requisite: MATH1081 AND COMP2521\n\n"
+  },
+  {
+    "courseCode": "COMP6752",
+    "courseTitle": "Modelling Concurrent Systems",
+    "courseDesc": "This course tries to make students familiar with state-of-the-art techniques in modelling concurrent systems. This is done by comparing some of the more successful models of concurrency found in the literature. The focus will be on the rationale behind the design decisions underlying those models, viewed from philosophical, mathematical and computational perspectives. The course contains important background knowledge for students aiming at a scientific career in which the design of mathematical models of system behaviour is a component.",
+    "courseCondition": "Pre-requisite: MATH1081\n\n"
+  },
+  {
+    "courseCode": "COMP6771",
+    "courseTitle": "Advanced C++ Programming",
+    "courseDesc": "COMP6771 is an advanced programming course teaching practical aspects of intermediate/advanced C++ programming. The course focuses on teaching the fundamentals of C++, followed by exploring powerful abstractions that C++ enables. This course focuses on using abstractions as well as building abstractions.",
+    "courseCondition": "Prerequisite: COMP2511 or COMP2911\n\n"
+  },
+  {
+    "courseCode": "COMP6841",
+    "courseTitle": "Extended Security Engineering and Cyber Security",
+    "courseDesc": "In this introductory cybersecurity course we look at Security Engineering – the engineering principles behind designing, monitoring, and maintaining security in the face of an adversary.  We explore selected case studies and examine the practical principles behind effective security. We introduce the fundamental ideas of security and then we look at how these are applied in current cyber security practice. We will pay particular attention to systems which fail and the importance of thinking like an attacker. This course involves analysis, critical thinking and design. A cunning and devious mind will be an asset. Although our main concern is cybersecurity, the engineering principles we cover apply to security more generally.",
+    "courseCondition": "Prerequisite: Completion of 30 UOC, and COMP1927 or COMP2521\n\n"
+  },
+  {
+    "courseCode": "COMP6843",
+    "courseTitle": "Extended Web Application Security and Testing",
+    "courseDesc": "Web applications are currently the predominant source of software vulnerabilities exploited in in online attacks. There is a growing need and growing demand for web programmers to be security aware.",
+    "courseCondition": "Prerequisite: COMP6441 or COMP6841 or COMP3441 or COMP1337\n\n"
+  },
+  {
+    "courseCode": "COMP6845",
+    "courseTitle": "Extended Digital Forensics and Incident Response",
+    "courseDesc": "The subject of Digital Forensics is a blend of technical expertise, legal procedures for an expert witness, persuasive report writing and your performance in the theatre of court. This course covers both forensic theory / professional practice, and looking at the underlying engineering of hiding, finding, interpreting and responding to traces. Students will use of standard forensic tools to extract, carve and analyse data as well as learning the low-level technical skills and knowledge underlying them. Students will also be introduced to advanced topics such as Cloud Forensics and latest anti-forensics techniques.",
+    "courseCondition": "Prerequisite: COMP3441 or COMP6441 or COMP6841 or COMP1337\n\n"
+  },
+  {
+    "courseCode": "COMP6991",
+    "courseTitle": "Solving Modern Programming Problems with Rust",
+    "courseDesc": "This course aims to provide commentary and critique on the practice of programming, and the tooling used to program (primarily programming languages themselves). A variety of programming concepts across many programming languages are examined, including: syntax, typing, polymorphism, documentation, testing, meta-programming, concurrency, parallelism, safety, and more. The Rust programming language is used as a reference language to teach considerations behind these concepts. As a language commonly cited to be well-considered, it serves as a good foundation to help students understand where countless other languages may let them down. Lectures will compare and contrast Rust with other languages, but will also discuss where Rust can similarly let students down.",
+    "courseCondition": "COMP1927 or COMP2521\n\n"
+  },
+  {
+    "courseCode": "COMP9242",
+    "courseTitle": "Advanced Operating Systems",
+    "courseDesc": "The course provides students with a deep understanding of modern operating system technology, implementation techniques and research issues.",
+    "courseCondition": "Prerequisite: a mark of at least 75 in either COMP3231 or COMP3891.\n\n"
+  },
+  {
+    "courseCode": "COMP9243",
+    "courseTitle": "Distributed Systems",
+    "courseDesc": "A detailed coverage of distributed systems, with a particular focus on operating systems issues: client-server paradigm, remote-procedure call as OS support for client-server; distributed shared memory, distributed memory coherency; distributed file systems; distributed process management, including load sharing and process migration; concurrency control; fault tolerance, recoverability and distributed transactions; naming; industry standards; case studies.",
+    "courseCondition": "Prerequisite: [COMP3231 or COMP3891] and [COMP3331 or TELE3018].\n\n"
+  },
+  {
+    "courseCode": "COMP9301",
+    "courseTitle": "Cyber Security Project",
+    "courseDesc": "Ever wondered what it's like to do cyber security research? Have a burning desire to solve an interesting security problem of your own?",
+    "courseCondition": "(COMP6441 OR COMP6841 OR COMP1337) AND (COMP6443, or COMP6843, or COMP6445, or COMP6845, or COMP6447) AND enrolled in final year of program\n\n"
+  },
+  {
+    "courseCode": "COMP9302",
+    "courseTitle": "Cyber Security Project B",
+    "courseDesc": "Ever wondered what it's like to do cyber security research? Have a burning desire to solve an interesting security problem of your own?",
+    "courseCondition": "For undergrad: (COMP6441 OR COMP6841 or COMP1337) AND (COMP6443, or COMP6843, or COMP6445, or COMP6845, or COMP6447) AND enrolled in final year of program.\n\n"
+  },
+  {
+    "courseCode": "COMP9312",
+    "courseTitle": "Data Analytics for Graphs",
+    "courseDesc": "Graphs are ubiquitous and are widely used to capture relationships between different entities in real-world applications. However, compared with traditional sequential data (e.g. text and audio), the unstructured property and the sparsity make processing big graphs very challenging. The course will introduce a series of data structures and algorithms for graph processing in terms of database (i.e., big data) and deep learning. Fundamental methods and the state-of-the-art research works will be integrated. The course will serve as a launching pad for those interested in graph analytics, big data processing and graph neural networks.",
+    "courseCondition": "Prerequisite: COMP1927 or COMP2521, and COMP3311\n\n"
+  },
+  {
+    "courseCode": "COMP9313",
+    "courseTitle": "Big Data Management",
+    "courseDesc": "This course introduces the core concepts and technologies involved in managing Big Data. It will first introduce the characteristics of big data and big data analysis. Then, we will learn the open-source big data management framework Hadoop. We will mainly focus on Hadoop MapReduce programming. YARN, HDFS, HBase, and Hive will be briefly introduced as well. We will also learn an open-source memory-based distributed computing framework Spark. Another major focus of this course is algorithm design on large-scale data sets based on big data management frameworks, in various domains such as data stream mining, graph data processing, and finding similar items.",
+    "courseCondition": "Prerequisite: COMP1927 or COMP2521, and COMP3311\n\n"
+  },
+  {
+    "courseCode": "COMP9315",
+    "courseTitle": "Database Systems Implementation",
+    "courseDesc": "This course aims to introduce students to the detailed internal structure of database management systems (DBMSs) such as Oracle or SQL Server. DBMSs contain a variety of interesting data structures and algorithms that are also potentially useful outside the DBMS context; knowing about them is a useful way of extending your general programming background. While the focus is on relational DBMSs, given that they have the best-developed technological foundation, we will also consider more recent developments in the management of large data repositories.",
+    "courseCondition": "Prerequisite: COMP1927 or COMP2521, and COMP3311\n\n"
+  },
+  {
+    "courseCode": "COMP9321",
+    "courseTitle": "Data Services Engineering",
+    "courseDesc": "This course aims to introduce the student to core concepts and practical skills for engineering the data in Web-service-oriented data-driven applications. Specifically, the course aims to expose students to basic infrastructure for building data services on the Web, including techniques to access and ingest data in internal/external sources, develop software services to curate (e.g. extract, transform, correct, aggregate the data), develop services to apply various analytics and develop services to visualize the data to communicate effectively using data. The course uses the Python programming language as the practical basis for its modules. However, the concepts taught are universal and can be applied to any other web development language/framework. ",
+    "courseCondition": "Prerequisite: (COMP1531 or COMP2041) and COMP3311\n\n"
+  },
+  {
+    "courseCode": "COMP9332",
+    "courseTitle": "Network Routing and Switching",
+    "courseDesc": "This course will focus on the routing and switching architectures, algorithms and protocols for packet switching networks, both connectionless and connection oriented networks (such as IP and ATM networks). Advanced Internet addressing : CIDR, VPN, NAT. In depth discussion of interior and exterior routing protocols, such BGP, OSPF. IP over ATM solutions : such as LANE, Classical IP over ATM. IP switching and MPLS. Mobile IP. Internet Multicasting. Overview of emerging switching and routing technologies, such as optical routing and QoS routing. There is a substantial network programming component in the assessable material, for which C prgramming knowledge is assumed.",
+    "courseCondition": "Prerequisite: COMP3331.\n\n"
+  },
+  {
+    "courseCode": "COMP9333",
+    "courseTitle": "Advanced Computer Networks",
+    "courseDesc": "We study network protocols and architectures used in data centres, software-defined networking and content distribution networks. We also study network security, network measurements and network models. The course consists of both a reading/lecture/discussion component and a project component. We will read research papers on recent topics in computer networking. Students are expected to carry out a research project including analysis, design, and implementation (when appropriate) on a novel subject. The projects can be one of the following types: algorithm design applied to networked system, implementation of a novel networking system, measurement of existing network protocols, and simulation of a proposed network algorithm.",
+    "courseCondition": "Pre-requisite: COMP3331 or COMP9331\n\n"
+  },
+  {
+    "courseCode": "COMP9334",
+    "courseTitle": "Capacity Planning of Computer Systems and Networks",
+    "courseDesc": "We live in a world that events do not happen instantly. It takes a certain amount of time to download a video from a server to your own mobile device. It takes a certain amount of time for a computer to finish the execution of an algorithm. The time to completion (or response time in performance analysis terminology) is a performance metric that computer scientists and computer engineers should be concerned about because no one wants to wait unnecessarily. If you can understand the factors that determine the response time, then you can influence those factors so that the response time becomes acceptable. This course will take a mathematical modelling and analytical approach to understand response time in computer systems and networks. The primary goal is to explore how mathematical modelling and mathematical methods can be used to model, analyse and design computer systems and networks so that they have good performance. There are three major topics that will be covered by this course:",
+    "courseCondition": "Prerequisite: COMP1511 OR DPST1091 OR COMP1917 OR COMP1921\n\n"
+  },
+  {
+    "courseCode": "COMP9417",
+    "courseTitle": "Machine Learning and Data Mining",
+    "courseDesc": "Machine learning is the algorithmic approach to learning from data. The course also covers aspects of data mining, the application of machine learning to obtain insight from data. In this course machine learning algorithms are placed in the context of their theoretical foundations in order to understand their derivation and correct application. Machine learning also is an empirical science, where performance of algorithms must be rigorously evaluated on datasets. Completion of this course will contribute to further learning in advanced topics such as deep learning, bioinformatics, computer vision, and robotics. Topics covered in the course include: linear models for regression and classification, local methods (nearest neighbour), tree learning, kernel machines, neural networks, unsupervised learning, ensemble learning, and learning theory. To expand and extend the development of theory and algorithms presented in lectures, practical examples will be given in tutorials and programming tasks during the project.",
+    "courseCondition": "Prerequisite: (MATH1081 and (COMP1531 or COMP2041)) or (COMP1927 or COMP2521)\n\n"
+  },
+  {
+    "courseCode": "COMP9418",
+    "courseTitle": "Advanced Topics in Statistical Machine Learning",
+    "courseDesc": "This course presents an in-depth study of statistical machine learning approaches. It aims to provide the student with a solid understanding of methods for learning and inference in structured probabilistic models, with a healthy balance of theory and practice. It will cover topics on the semantics of direct and undirected representations in probabilistic graphical models, exact and approximate inference, and learning of model parameters and structure.",
+    "courseCondition": "Prerequisite: MATH5836 or COMP9417\n\n"
+  },
+  {
+    "courseCode": "COMP9444",
+    "courseTitle": "Neural Networks and Deep Learning",
+    "courseDesc": "Neural networks and deep learning play a critical role in pushing the boundaries of what AI can achieve, making them indispensable for various industries and applications. Their ability to learn and adapt from data has revolutionised many fields and opened up new opportunities for solving complex problems. This course provides an introduction to and deep exploration of neural networks and deep learning principles and practice.",
+    "courseCondition": "Prerequisite: COMP1927 or COMP2521 or MTRN3500\n\n"
+  },
+  {
+    "courseCode": "COMP9447",
+    "courseTitle": "Security Engineering Workshop",
+    "courseDesc": "Applied workshop in an emerging area in cyber security.   The course is supervised and taught by relevant academics and/or industry experts in the field.  Areas vary depending on the availability of subject domain experts from time to time.  Examples of relevant areas include: Cloud Security, Cryptanalysis on commercial products, mainframe security audit and penetration testing.",
+    "courseCondition": "Prerequisite: COMP6441 or COMP6841 or COMP3441\n\n"
+  },
+  {
+    "courseCode": "COMP9491",
+    "courseTitle": "Applied Artificial Intelligence",
+    "courseDesc": "This course presents some advanced topics in various aspects of artificial intelligence such as computer vision, speech and language processing, deep learning, and knowledge representation and reasoning. The course aims to integrate these various aspects of AI and present case studies where such integration of different methodologies delivers interesting applications. Project development is the major component of this course, to develop a solution to a practical or industry-based problem that requires an integration of more than one type of AI techniques ranging from symbolic AI (e.g. knowledge representation and reasoning) to deep learning, with example applications in computer vision, speech and language processing, etc. Assessment is based on group project development.",
+    "courseCondition": "Two prerequisite conditions:\n1. Students have taken:\n6 UOC from the following: COMP3411; and\n12 UOC from the following: COMP9444/COMP9417/COMP9517/COMP4418\n2. Students must have a WAM of 70 or higher\n\n"
+  },
+  {
+    "courseCode": "COMP9517",
+    "courseTitle": "Computer Vision",
+    "courseDesc": "Computer vision is the interdisciplinary scientific field that develops theories and methods allowing computers to extract high-level information from digital images or videos. From an engineering perspective it seeks to automate perceptual tasks normally performed by the human visual system. Generally, vision is difficult because it is an inverse problem, where only insufficient information is available about the objects of interest in the image data. Physics-based mathematical and statistical models as well as machine-learning methods are used to assist in the task. Current real-world applications are wide-ranging, and include optical character recognition, machine inspection, retail object recognition, 3D model building, remote sensing, medical imaging, autonomous driving, motion capture, surveillance, face recognition, biometrics, and many others. This course provides an introduction to fundamental concepts and an opportunity to develop a real-world application of computer vision.",
+    "courseCondition": "Prerequisite: COMP2521 or COMP1927\n\n"
+  },
+  {
+    "courseCode": "COMP9727",
+    "courseTitle": "Recommender Systems",
+    "courseDesc": "Recommender systems are information filtering and search tools for providing personalized user interaction and navigation through a complex space of products or services. The aim is to address information overload by providing users with items that better meet their needs and support their decision making. Recommender systems are important commercial tools that are widely used by e-commerce and social media companies to drive sales and user engagement. This course will cover the basic types of recommender system, the main recommendation algorithms, and machine learning and natural language processing techniques used to support recommender systems.",
+    "courseCondition": "Prerequisite: COMP1927 or COMP2521\n\n"
+  }
+]
